@@ -1,5 +1,5 @@
 - Hello there i'm Nishal Ahmed.
-- Learning python.
+- Knows python, learning java.
 - nishalahmed@hotmail.com.
 
 <!---
