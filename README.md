@@ -1,6 +1,6 @@
 - Hello there i'm Nishal Ahmed.
-- Knows python, learning java.
-- nishalahmed@hotmail.com.
+- Knows python, c. Learning javascript.
+- nishalahmed05@gmail.com.
 
 <!---
 nishalahmedpk/nishalahmedpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
