@@ -1,5 +1,6 @@
 - Hello there i'm Nishal Ahmed.
-- Knows python, c. Learning javascript.
+- Languages: Python, C, C++, Java
+- Skills: Machine Learning, DBMS, DSA, Object Oriented Programming
 - nishalahmed05@gmail.com.
 
 <!---
