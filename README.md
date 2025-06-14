@@ -1,6 +1,5 @@
-- Hello there i'm Nishal Ahmed.
-- Languages: Python, C, C++, Java
-- Skills: Machine Learning, DBMS, DSA, Object Oriented Programming
+- Skills: Web Dev, Machine Learning
+- Tools & Frameworks: Tensorflow, React, Angular, MySQL
 - nishalahmed05@gmail.com.
 
 <!---
