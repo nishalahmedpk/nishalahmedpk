@@ -1,5 +1,4 @@
-x
-Hello there, I am Nishal Ahmed, a Computer Science Student @BITS Dubai.
+👋 Hello there, I am Nishal Ahmed, a Computer Science Student @BITS Dubai.
 - Areas Of Interest: DevOps, WebDev, Machine Learning, Computer Vision, Quantum Computing
 - Tools & Frameworks: Tensorflow, React, Angular, Supabase
 - Connect: linkedin.com/in/nishalahmed
